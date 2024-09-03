@@ -1,6 +1,5 @@
 import json
 
-# Supondo que o JSON é lido a partir de um arquivo ou de outra fonte
 faturamento_mensal = '''
 [
     {"dia": 1, "valor": 22174.1664},
