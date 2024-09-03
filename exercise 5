@@ -1,0 +1,9 @@
+def inverter_string(texto):
+    resultado = ''
+    for char in texto:
+        resultado = char + resultado
+    return resultado
+
+texto = input("Informe uma string: ")
+texto_invertido = inverter_string(texto)
+print(f"String invertida: {texto_invertido}")
