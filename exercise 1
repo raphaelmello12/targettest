@@ -7,3 +7,6 @@ while (K < INDICE) {
 }
 
 Imprimir(SOMA);
+
+
+# resultado será 91
